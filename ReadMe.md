@@ -1,4 +1,4 @@
-# Artificial Intelligence - Computer Assignment #1 - Fall 2021
+# Artificial Intelligence - Computer Assignment #0 - Fall 2021
 ## University of Tehran 
 
 In this project we will get acquainted with Jupyter Notebook and some Python libraries which are practical tools in the field of artificial intelligence and machine learning. In this project, we first review and visualize the data. Then, using the analyzes we performed on the data, we obtain a simple linear regression model for prediction. The libraries used in this project will be numpy, pandas and matplotlib with the Jupyter Notebook tool.
